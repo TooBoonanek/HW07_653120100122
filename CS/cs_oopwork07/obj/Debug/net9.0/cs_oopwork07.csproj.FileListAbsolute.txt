@@ -1,0 +1,14 @@
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\bin\Debug\net9.0\cs_oopwork07.exe
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\bin\Debug\net9.0\cs_oopwork07.deps.json
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\bin\Debug\net9.0\cs_oopwork07.runtimeconfig.json
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\bin\Debug\net9.0\cs_oopwork07.dll
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\bin\Debug\net9.0\cs_oopwork07.pdb
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\obj\Debug\net9.0\cs_oopwork07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\obj\Debug\net9.0\cs_oopwork07.AssemblyInfoInputs.cache
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\obj\Debug\net9.0\cs_oopwork07.AssemblyInfo.cs
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\obj\Debug\net9.0\cs_oopwork07.csproj.CoreCompileInputs.cache
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\obj\Debug\net9.0\cs_oopwork07.dll
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\obj\Debug\net9.0\refint\cs_oopwork07.dll
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\obj\Debug\net9.0\cs_oopwork07.pdb
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\obj\Debug\net9.0\cs_oopwork07.genruntimeconfig.cache
+C:\Users\Boonanek\Desktop\hw_07\CS\cs_oopwork07\obj\Debug\net9.0\ref\cs_oopwork07.dll
