@@ -12,7 +12,7 @@ class Program
         var cy1 = new Cylinder();
         cy1.CyInfo();
         cy1.Radius = 3.0;
-        cy1.Height = 6.0;
+        cy1.Length = 6.0;
         cy1.CyInfo();
 
         var rec1 = new Rectangle();
