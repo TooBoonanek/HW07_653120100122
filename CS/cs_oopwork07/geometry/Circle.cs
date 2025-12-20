@@ -1,17 +1,8 @@
 namespace cs_oopwork07;
     public class Circle
     {
-        private double radius;
-
-        public double Radius { get => radius; set => radius = value; }
-
-        public Circle(double radius)
-        {
-            this.radius = radius;
-        }
-
-        public Circle(): this(1.0){}
-
+        public double Radius { get; set; } = 1.0;
+        
         public double area()
         {
             return Math.PI * Math.Pow(Radius, 2);
