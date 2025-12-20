@@ -9,5 +9,5 @@ namespace cs_oopwork07;
 
         public double circumference => 2 * Math.PI * Radius;
 
-        public void cirInfo => $"Circle: Radius = {Radius:N2}, Area = {area():N2}, Diameter = {diamater():N2}, Circumference = {circumference():N2}";
+        public string cirInfo => $"Circle: Radius = {Radius:N2}, Area = {area:N2}, Diameter = {diamater:N2}, Circumference = {circumference:N2}";
     }
