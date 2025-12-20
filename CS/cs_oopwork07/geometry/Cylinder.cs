@@ -8,7 +8,7 @@ namespace cs_oopwork07;
 
         public double area => 2 * Math.PI * Radius * (Radius + Length);
 
-        public double volume => area() * Length;
+        public double volume => area * Length;
 
-        public void CyInfo => $"Cylinder: Radius = {Radius:N2}, Length = {Length:N2}, Area = {area:N2}, Volume = {volume:N2}";
+        public string CyInfo => $"Cylinder: Radius = {Radius:N2}, Length = {Length:N2}, Area = {area:N2}, Volume = {volume:N2}";
     }
