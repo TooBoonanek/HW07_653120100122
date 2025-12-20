@@ -7,5 +7,5 @@ namespace cs_oopwork07;
 
         public double area => Width * Height;
 
-        public void RecInfo => $"Rectangle: Width = {Width:N2}, Height = {Height:N2}, Area = {area():N2}";
+        public string RecInfo => $"Rectangle: Width = {Width:N2}, Height = {Height:N2}, Area = {area:N2}";
     }
