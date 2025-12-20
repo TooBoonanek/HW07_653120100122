@@ -3,10 +3,7 @@ namespace cs_oopwork07;
     {
         public double Radius { get; set; } = 1.0;
         
-        public double area()
-        {
-            return Math.PI * Math.Pow(Radius, 2);
-        }
+        public double area => Math.PI * Math.Pow(Radius, 2);
 
         public double diamater()
         {
