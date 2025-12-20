@@ -1,28 +1,19 @@
 namespace cs_oopwork07;
     public class Cylinder
     {
-        private double radius;
-        private double length;
 
-        public double Radius { get => radius; set => radius = value; }
-        public double Length { get => length; set => length = value; }
+        public double Radius { get; set; } = 1.0;
+        public double Length { get; set; } = 1.0;
 
-        public Cylinder(double radius, double length)
-        {
-            this.radius = radius;
-            this.length = length;
-        }
-
-        public Cylinder():this(1.0, 1.0){}
 
         public double area()
         {
-            return 2 * Math.PI * radius * (radius + length);
+            return Math.PI * Math.Pow(Radius, 2);
         }
 
         public double volume()
         {
-            return area() * length;
+            return Math.PI * Math.Pow(Radius, 2) * Length;
         }
 
         public void CyInfo()
