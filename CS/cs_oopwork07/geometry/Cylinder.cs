@@ -8,12 +8,12 @@ namespace cs_oopwork07;
 
         public double area()
         {
-            return Math.PI * Math.Pow(Radius, 2);
+            return 2 * Math.PI * Radius * (Radius + Length);
         }
 
         public double volume()
         {
-            return Math.PI * Math.Pow(Radius, 2) * Length;
+            return area() * Length;
         }
 
         public void CyInfo()
