@@ -15,14 +15,8 @@ class Circle:
     def area(self):
         return math.pi * pow(self.__radius, 2)
 
-    def diameter(self):
-        return 2 * self.__radius
-
-    def circumference(self):
-        return 2 * math.pi * self.__radius
-
     def cir_info(self):
-        return f"Circle: Radius = {self.__radius}, Area = {self.area():.2f}, Diameter = {self.diameter():.2f}, Circumference = {self.circumference():.2f}"
+        return f"Circle: Radius = {self.__radius}, Area = {self.area():.2f}"
 
 class Cylinder:
     def __init__(self, radius:float=1.0, length:float=1.0):
